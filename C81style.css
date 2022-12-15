@@ -1,0 +1,21 @@
+ 
+h1
+{
+	color: red; 
+	font-size: 40px;
+}
+.body_background {
+background-image: url(bg1.jpg);
+background-position: center;
+background-size: cover;
+}
+
+#myCanvas{
+border: 5px gray;
+border-style: ridge;
+background-color: azure;
+border-radius: 20px;
+}
+#myColor{
+	margin-bottom: 20px;
+}
